@@ -1,0 +1,1 @@
+ A Chrome extension that takes user location and returns popular events near-by.
